@@ -20,5 +20,3 @@
 
 **Ter insegurança é horrível**
 
-![Isso é uma imagem]
-![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
